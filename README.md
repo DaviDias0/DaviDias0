@@ -65,11 +65,11 @@ Tenho experiência prática no desenvolvimento de projetos acadêmicos, incluind
 ### <span style="color:#00FF00">Projeto em Destaque</span>
 
 <div align="center">
-<a href="https://github.com/davidiass01/task-manager-api">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=davidiass01&repo=task-manager-api&theme=transparent&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" />
+<a href="https://github.com/DaviDias0/task-manager-api">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=DaviDias0&repo=task-manager-api&theme=transparent&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" />
 </a>
 <p align="center">
-<a href="https://github.com/davidiass01/task-manager-api" target="_blank">
+<a href="https://github.com/DaviDias0/task-manager-api" target="_blank">
 <img src="https://img.shields.io/badge/Ver_Código-000?style=for-the-badge&logo=github&logoColor=00FF00" />
 </a>
 <a href="https://SEU-LINK-DO-PROJETO-NO-AR-AQUI" target="_blank">
@@ -83,10 +83,10 @@ Tenho experiência prática no desenvolvimento de projetos acadêmicos, incluind
 ### <span style="color:#00FF00">Estatísticas no GitHub</span>
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=davidiass01&show_icons=true&theme=transparent&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidiass01&layout=compact&langs_count=8&theme=transparent&bg_color=000000&title_color=00FF00&text_color=FFFFFF" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DaviDias0&show_icons=true&theme=transparent&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDias0&layout=compact&langs_count=8&theme=transparent&bg_color=000000&title_color=00FF00&text_color=FFFFFF" />
 <br><br>
-<img src="https://streak-stats.demolab.com?user=davidiass01&theme=highcontrast&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&dates=FFFFFF&sideLabels=00FF00" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=DaviDias0&theme=highcontrast&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&dates=FFFFFF&sideLabels=00FF00" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,8 +94,8 @@ Tenho experiência prática no desenvolvimento de projetos acadêmicos, incluind
 ### <span style="color:#00FF00">Atividade de Contribuição</span>
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidiass01/davidiass01/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidiass01/davidiass01/output/github-contribution-grid-snake.svg">
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/davidiass01/davidiass01/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviDias0/DaviDias0/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviDias0/DaviDias0/output/github-contribution-grid-snake.svg">
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/DaviDias0/DaviDias0/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
