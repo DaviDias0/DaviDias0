@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
   </a>
   <a href="mailto:davi.dias.2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
   </a>
 </div>
 
