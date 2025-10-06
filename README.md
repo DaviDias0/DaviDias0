@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-<a href="https://linkedin.com/in/SEU-LINK-AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00" /></a>
-<a href="mailto:davi.dias.2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00"/></a>
+<a href="https://www.linkedin.com/in/davi-dias-a6225523a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00" /></a>
+<a href="mailto:davidiass161@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00"/></a>
 </div>
 
 ---
@@ -72,7 +72,7 @@ Tenho experiência prática no desenvolvimento de projetos acadêmicos, incluind
 <a href="https://github.com/DaviDias0/task-manager-api" target="_blank">
 <img src="https://img.shields.io/badge/Ver_Código-000?style=for-the-badge&logo=github&logoColor=00FF00" />
 </a>
-<a href="https://SEU-LINK-DO-PROJETO-NO-AR-AQUI" target="_blank">
+<a href="https://task-manager-frontend-eight-kappa.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Ver_Projeto_no_Ar-000?style=for-the-badge&logo=vercel&logoColor=00FF00" />
 </a>
 </p>
